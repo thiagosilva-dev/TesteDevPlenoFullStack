@@ -1,4 +1,4 @@
-***** Teste Dev. Pleno FullStack *****
+Teste Dev. Pleno FullStack
 
 *Apply if you have solid knowlege about Node.js and PHP.
 
